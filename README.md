@@ -23,7 +23,7 @@ You can create an account and find other people by username.
 
 <img src="https://user-images.githubusercontent.com/91344640/168440512-55f98fb5-bcea-4859-bfd7-f95acbf31b76.png" width="250">
 
-<img src="(https://user-images.githubusercontent.com/91344640/168440518-0bc8db61-66a9-4c9d-b9e2-6fc1f1f26d9c.png" width="250">
+<img src="https://user-images.githubusercontent.com/91344640/168440518-0bc8db61-66a9-4c9d-b9e2-6fc1f1f26d9c.png" width="250">
 
 <img src="https://user-images.githubusercontent.com/91344640/168440525-a44fb916-689f-45f6-ad61-68360f4d2f62.png" width="250">
 </p>
