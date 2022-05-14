@@ -87,7 +87,7 @@ struct SignInView: View {
                             .shadow(color: .white, radius: 3, x: -5, y: -5)
                             .font(Font.custom("Baloo Thambi 2", size: 24).weight(.bold))
                         
-                        Text("Made by Anastassiya Rezayeva, sudohostname @ GitHub")
+                        Text("Made by sudohostname @ GitHub")
                             .font(Font.custom("Baloo Thambi 2", size: 12))
                             .padding(.top, 30)
                             .foregroundColor(.gray)
